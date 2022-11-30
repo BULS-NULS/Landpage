@@ -84,7 +84,7 @@ body {
     background: #ffffff;   
     font-family: 'Montserrat', sans-serif; /*, sans-serif; /*Source Sans Pro', sans-serif;/*Source Sans Pro'*/
     font-style: normal;
-    font-size: 12px;
+    font-size: 21px;
     font-weight: 200;
     position: relative;
 }
@@ -866,7 +866,8 @@ ol li::before {
 }
 
 .fit-image{
-  width: 100%;
+  width: 105%;
+  margin-top: 90px;
   object-fit: cover;
 /*height: 300px; /* only if you want fixed height */
 }
